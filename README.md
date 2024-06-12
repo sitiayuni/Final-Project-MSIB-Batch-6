@@ -1,6 +1,6 @@
-Analisis Fundamental dan Teknikal pada Saham Perbankan untuk Strategi Investasi Perusahaan Reksadana
+**Analisis Fundamental dan Teknikal pada Saham Perbankan untuk Strategi Investasi Perusahaan Reksadana**
 
-Tentang Final Project: 
+**Tentang Final Project**
 Dataset yang digunakan berupa dataset perusahaan reksadana. Dimana perusahaan ini membutuhkan wawasan tentang pergerakan dan kondisi fundamental saham bank untuk strategi investasi yang optimal. Kami melakukan analisis fundamental dan teknikal menggunakan data dari 12 saham bank, mencakup laporan keuangan dan statistik utama. Proses melibatkan data cleaning, transformasi, dan feature engineering dengan fokus pada ROA, ROE, dan NPM. 
 
 Untuk prediksi harga saham, kami menggunakan model ARIMA, LSTM, dan GRU, dengan model GRU menunjukkan performa terbaik. Hasil analisis menunjukkan bank BUMN memiliki fundamental lebih baik dibandingkan bank swasta. Rekomendasi kami mencakup pembelian saham bank dengan tren naik dan fundamental kuat, seperti bank Mega, BCA, BSI, dan BRI. 
