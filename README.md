@@ -1,6 +1,7 @@
 **Analisis Fundamental dan Teknikal pada Saham Perbankan untuk Strategi Investasi Perusahaan Reksadana**
 
-**Tentang Final Project**
+**Tentang Project**
+
 Dataset yang digunakan berupa dataset perusahaan reksadana. Dimana perusahaan ini membutuhkan wawasan tentang pergerakan dan kondisi fundamental saham bank untuk strategi investasi yang optimal. Kami melakukan analisis fundamental dan teknikal menggunakan data dari 12 saham bank, mencakup laporan keuangan dan statistik utama. Proses melibatkan data cleaning, transformasi, dan feature engineering dengan fokus pada ROA, ROE, dan NPM. 
 
 Untuk prediksi harga saham, kami menggunakan model ARIMA, LSTM, dan GRU, dengan model GRU menunjukkan performa terbaik. Hasil analisis menunjukkan bank BUMN memiliki fundamental lebih baik dibandingkan bank swasta. Rekomendasi kami mencakup pembelian saham bank dengan tren naik dan fundamental kuat, seperti bank Mega, BCA, BSI, dan BRI. 
@@ -8,9 +9,8 @@ Untuk prediksi harga saham, kami menggunakan model ARIMA, LSTM, dan GRU, dengan 
 Visualisasi data dan hasil analisis ditampilkan melalui dashboard di Looker Studio.
 
 
-**Dashboard Overview:**
+**Fitur**
 
-**Main Dashboard:**
 1. **Rekomendasi Saham Terbaik:**
    - Empat saham terbaik berdasarkan analisis.
    - Persentase kenaikan atau penurunan harga dalam 30 hari ke depan.
@@ -59,3 +59,18 @@ Visualisasi data dan hasil analisis ditampilkan melalui dashboard di Looker Stud
 Dashboard ini dirancang untuk memberikan gambaran lengkap dan akurat guna membantu perusahaan reksadana dalam pengambilan keputusan investasi yang lebih baik, dengan mempertimbangkan aspek fundamental dan teknikal dari setiap bank yang dianalisis.
 
 
+**Tim 10 A**
+
+1. Khairani Ristya W.          Universitas Gajah Mada
+   
+2. Roma N. F. Mantiri          Universitas Sam Ratulangi
+   
+3. Siti Ayuni                  Universitas Lampung
+   
+4. Dhifa Adji P.               Universitas Jendral Soedirman
+   
+5. Evita Pertiwi A.            Universitas Bhayangkara
+    
+6. M. Nurmarendra             Universitas Terbuka
+    
+7. Dela Fardila               Universitas Airlangga
